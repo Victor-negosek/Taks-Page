@@ -1,28 +1,22 @@
 {
   "tasks": [
     {
-      "id": 1,
-      "text": "Doctors Appointment",
-      "day": "March 1st at 2:30pm",
-      "reminder": true
-    },
-    {
-      "id": 2,
-      "text": "School Appointment",
-      "day": "June 1st at 8:30am",
-      "reminder": false
-    },
-    {
-      "id": 3,
-      "text": "Food Shoping",
-      "day": "March 3rd at 11:00am",
-      "reminder": false
-    },
-    {
-      "id": 57513,
       "text": "teste 1",
       "day": "Teste 1",
-      "reminder": true
+      "reminder": true,
+      "id": 1
+    },
+    {
+      "text": "Teste 2",
+      "day": "teste 2",
+      "reminder": true,
+      "id": 2
+    },
+    {
+      "text": "teste 3",
+      "day": "Teste 3",
+      "reminder": false,
+      "id": 3
     }
   ]
 }
